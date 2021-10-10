@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning web development with css, html, javascript and react applying knowledge in projects developed during the course
 
-<div align="center">
+<div style="display: inline_block" align="center">
   <a href="https://github.com/AndreJorge01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreJorge01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreJorge01&layout=compact&langs_count=7&theme=dracula"/>
