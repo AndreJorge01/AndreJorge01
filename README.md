@@ -14,13 +14,14 @@
   <img align="center" alt="Andre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Andre-bootstrap" height="30" width="40" scr="file:///C:/Users/Lenovo/Downloads/bootstrap_plain_wordmark_logo_icon_146620.svg">
-  <img align="center" alt="Andre-git" height="30" width="40" scr="file:///C:/Users/Lenovo/Downloads/git_original_wordmark_logo_icon_146510.svg">
-  <img align="center" alt="Andre-github" height="30" width="40" scr"file:///C:/Users/Lenovo/Downloads/github_git_hub_logo_icon_132878.svg">
+  <img align="center" alt="Andre-github" height="30" width="40" src="https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Andre-git" height="30" width="40" src="https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Andre-bootstrap" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=currentColor">
 </div>
 
   ##
  
-  <div>
-    <a href="https://www.linkedin.com/in/andre-jorge-6b65671b4/" target="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" </a>
-  </div> 
+  <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
+  <a href="https://www.linkedin.com/in/andre-jorge-6b65671b4/">
+    <img src="https://github.com/ARTHURPC03/ARTHURPC03/raw/master/github/linkedin.png" alt="LinkedIn" height="50">
+  </div>
