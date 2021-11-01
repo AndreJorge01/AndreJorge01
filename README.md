@@ -1,7 +1,8 @@
 ### Hi guys, I'm André Jorge 👋
-<p>Eu sou desenvolvedor Front-End em busca da primeira oportunidade, eu estudo e aplico meus conhecimentos em projetos pessoais e desenvolvidos durante o curso utilizando tecnologias como HTML, CSS, JavaScript, React, Boostrap e SCSS </p>
+<p>Eu sou desenvolvedor Front-End em busca da primeira oportunidade, eu estudo e aplico meus conhecimentos em projetos pessoais e desenvolvidos durante o curso utilizando tecnologias como HTML, CSS, JavaScript, React, Boostrap e SCSS. </p>
 
-- 🌱 I’m currently learning web development with css, html, javascript and react applying knowledge in projects developed during the course
+- 🌱 Atualmente eu estudo desenvolvimento Web com HTML, CSS e JavaScript.
+- 🚀 Pretento em breve estudar com profundidade Node.js e React Native para aplicações back-end e mobile.
 
 <div align="center" >
 
