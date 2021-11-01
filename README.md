@@ -1,5 +1,5 @@
 ### Hi guys, I'm André Jorge 👋
-<p>I'm a Front-end Jr developer, looking for the first opportunity as a developer, I use technologies such as JavaScript, ReactJS, Redux, Bootstrap, Html and CSS</p>
+<p>Eu sou desenvolvedor Front-End em busca da primeira oportunidade, eu estudo e aplico meus conhecimentos em projetos pessoais e desenvolvidos durante o curso utilizando tecnologias como HTML, CSS, JavaScript, React, Boostrap e SCSS </p>
 
 - 🌱 I’m currently learning web development with css, html, javascript and react applying knowledge in projects developed during the course
 
