@@ -2,7 +2,7 @@
 <p>Eu sou desenvolvedor Front-End em busca da primeira oportunidade, eu estudo e aplico meus conhecimentos em projetos pessoais e desenvolvidos durante o curso utilizando tecnologias como HTML, CSS, JavaScript, React, Boostrap e SCSS. </p>
 
 - 🌱 Atualmente eu estudo desenvolvimento Web com HTML, CSS e JavaScript.
-- 🚀 Pretento em breve estudar com profundidade Node.js e React Native para desenvolvimento back-end e mobile.
+- 🚀 Pretento em breve estudar com profundidade Python e React Native para desenvolvimento back-end e mobile.
 
 <div align="center" >
 
