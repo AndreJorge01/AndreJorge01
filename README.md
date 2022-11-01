@@ -1,5 +1,5 @@
 ### Hi guys, I'm André Jorge 👋
-<p>I'm a Full Stack developer looking for the first opportunity, I study and apply my knowledge in personal projects using technologies such as HTML, CSS, JavaScript, React.JS, Node.JS and SQL. </p>
+<p>I'm a Front end developer looking for the first opportunity, I study and apply my knowledge in personal projects using technologies such as HTML, CSS, JavaScript, React.JS, Node.JS and SQL. </p>
 
 - 🌱 Currently I study web development with React.JS, React Native, Node.JS, TypeScript.
 - 🚀I intend to study Python and java in-depth for backend development soon.
