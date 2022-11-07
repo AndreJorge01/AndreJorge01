@@ -22,7 +22,7 @@
   ##
   
   <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" > 
-  <a href="https://www.linkedin.com/in/andre-jorge-6b65671b4/">
+  <a href="https://www.linkedin.com/in/andr%C3%A9-jorge-6b65671b4/">
     <img src="https://github.com/ARTHURPC03/ARTHURPC03/raw/master/github/linkedin.png" alt="LinkedIn" height="50">
   </a>
 </div>
