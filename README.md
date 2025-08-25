@@ -14,6 +14,7 @@
   <img align="center" alt="Andre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Andre-github" height="30" width="40" src="https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="Andre-git" height="30" width="40" src="https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="Andre-bootstrap" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=currentColor">
